@@ -11,12 +11,12 @@
 #include <queue>
 #include <string.h>
 #define max 9999999
-        using namespace std;
+using namespace std;
 struct node
 {
     int data;
     int num;
-    node *next;
+    node *next; 
 } edge[10001];
 
 int n, dis[100001], sum[10001];
