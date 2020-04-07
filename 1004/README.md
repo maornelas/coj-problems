@@ -14,16 +14,15 @@ Output T lines, one for each test case, containing the required direction you wi
 
 **Sample input**
 
-4
-1 1
-2 2
-3 1
-3 3
+4<br/>
+1 1<br/>
+2 2<br/>
+3 1<br/>
+3 3<br/>
 
 **Sample output**
 
-R
-L
-D
-
-R
+R<br/>
+L<br/>
+D<br/>
+R<br/>
