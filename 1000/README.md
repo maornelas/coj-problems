@@ -16,10 +16,3 @@ The only line of output should contain one integer: the sum of A and B.
 1 2
 **Sample output**
 3
-
-**Hint(s)**
-
-Read our FAQs carefully to see solution samples. 
-Recommendation
-
-We have carefully selected several similar problems for you: 1494 | 3599 | 1960 | 3147 | 1046 | 3314
