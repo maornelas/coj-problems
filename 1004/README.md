@@ -16,13 +16,20 @@ Output T lines, one for each test case, containing the required direction you wi
 
 4
 1 1
+
 2 2
+
 3 1
+
 3 3
+
 
 **Sample output**
 
 R
+
 L
+
 D
+
 R
