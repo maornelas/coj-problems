@@ -19,25 +19,26 @@ For each test case, print a line containing the name of the area, a colon, a spa
 
 **Sample input**
 
-2
-Feldberg 10 5
-56 14 51 58 88
-26 94 24 39 41
-24 16 8 51 51
-76 72 77 43 10
-38 50 59 84 81
-5 23 37 71 77
-96 10 93 53 82
-94 15 96 69 9
-74 0 62 38 96
-37 54 55 82 38
-Spiral 5 5
-1 2 3 4 5
-16 17 18 19 6
-15 24 25 20 7
-14 23 22 21 8
-13 12 11 10 9
-Sample output
+2 <br/>
+Feldberg 10 5<br/>
+56 14 51 58 88<br/>
+26 94 24 39 41<br/>
+24 16 8 51 51<br/>
+76 72 77 43 10<br/>
+38 50 59 84 81<br/>
+5 23 37 71 77<br/>
+96 10 93 53 82<br/>
+94 15 96 69 9<br/>
+74 0 62 38 96<br/>
+37 54 55 82 38<br/>
+Spiral 5 5<br/>
+1 2 3 4 5<br/>
+16 17 18 19 6<br/>
+15 24 25 20 7<br/>
+14 23 22 21 8<br/>
+13 12 11 10 9<br/>
 
-Feldberg: 7
-Spiral: 25
+**Sample output**
+
+Feldberg: 7<br/>
+Spiral: 25<br/>
