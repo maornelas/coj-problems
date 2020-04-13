@@ -5,7 +5,7 @@
 
 Michael likes snowboarding. That's not very surprising, since snowboarding is really great. The bad thing is that in order to gain speed, the area must slide downwards. Another disadvantage is that when you've reached the bottom of the hill you have to walk up again or wait for the ski-lift. Michael would like to know how long the longest run in an area is. That area is given by a grid of numbers, defining the heights at those points. Look at this example:
 
-![Image of Yaktocat](../img/problem1026.png)
+![Image of Yaktocat](problem1026.png)
 
 One can slide down from one point to a connected other one if and only if the height decreases. One point is connected to another if it's at left, at right, above or below it. In the sample map, a possible slide would be 24-17-16-1 (start at 24, end at 1). Of course if you would go 25-24-23-...-3-2-1, it would be a much longer run. In fact, it's the longest possible.
 
