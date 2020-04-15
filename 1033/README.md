@@ -31,5 +31,5 @@ Output consists of exactly one line for each test case. The line contains a sing
 ...............<br/>
 END<br/>
 
-**Sample output**
-1
+**Sample output**   <br/>
+1 <br/>
