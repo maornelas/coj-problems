@@ -17,15 +17,15 @@ For each dataset, there is to be one line of output consisting of: the dataset n
 
 **Sample input**
 
-4
-2
-4
-5
-231
+4 <br/>
+2<br/>
+4<br/>
+5<br/>
+231<br/>
 
 **Sample output**
 
-1 2 5
-2 4 13
-3 5 21
-4 231 32549
+1 2 5<br/>
+2 4 13<br/>
+3 5 21<br/>
+4 231 32549<br/>
