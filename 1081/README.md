@@ -9,6 +9,7 @@ An Orchardist has planted an orchard in a rectangle with trees uniformly spaced 
 <br/>
 Consider that we now overlay a series of triangles on to this grid. The vertices of the triangle can have any real coordinates in the range 0.0 to 100.0, thus trees can have coordinates in the range 1 to 99. Two possible triangles are shown. Write a program that will determine how many trees are contained within a given triangle. For the purposes of this problem, you may assume that the trees are of point size, and that any tree (point) lying exactly on the border of a triangle is considered to be in the triangle.
 <br/>
+<br/>
 
 **Input specification**
 
