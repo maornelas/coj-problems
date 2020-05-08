@@ -14,7 +14,6 @@ For each test case, output a single integer followed by a newline --- the length
 
 **Sample input**
 <br/>
-<br/>
 
 4<br/>
 5 1 2 3 4 5<br/>
@@ -22,10 +21,8 @@ For each test case, output a single integer followed by a newline --- the length
 5 5 1 4 2 3<br/>
 5 2 4 1 3 5<br/>
 <br/>
-<br/>
 
 **Sample output**
-<br/>
 <br/>
 
 1<br/>
